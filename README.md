@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mith83
-- 👀 I’m interested in ... JS, CSS & PHP
+- 👀 I’m interested in ... HTML, CSS, JS & PHP
 - 🌱 I’m currently learning ... GitHub
 - 💞️ I’m looking to collaborate on ... GitHub
 - 📫 How to reach me ... Reach me at successtrending@gmail.com
