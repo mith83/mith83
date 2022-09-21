@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... HTML, CSS, JS & PHP
 - 🌱 I’m currently learning ... GitHub
 - 💞️ I’m looking to collaborate on ... GitHub
-- 📫 How to reach me ... visit our blog : www.success-trending.club
+- 📫 How to reach me ... [visit our blog](https://www.success-trending.club)
 
 <!---
 mith83/mith83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
